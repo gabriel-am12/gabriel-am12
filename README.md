@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-am12&label=Profile%20views&color=18bf71&style=plastic" alt="gabriel-am12" /> </p>
 
-- 📫 How to reach me **gabrielaug4@gmail.com**
+- 📫 How to reach me: **gabrielaug4@gmail.com**
 
-- ⚡ Fun fact **i love rpg**
+- ⚡ Fun fact: **i love rpg, games in general, books, series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
