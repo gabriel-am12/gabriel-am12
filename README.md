@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-am12&label=Profile%20views&color=18bf71&style=plastic" alt="gabriel-am12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-am12" alt="gabriel-am12" /></a> </p>
-
 - 📫 How to reach me **gabrielaug4@gmail.com**
 
 - ⚡ Fun fact **i love rpg**
@@ -20,6 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-am12&show_icons=true&locale=en&layout=compact" alt="gabriel-am12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-am12&show_icons=true&title_color=2c9b6b&hide_border=true&locale=en" alt="gabriel-am12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-am12&theme=dark" alt="gabriel-am12" /></p>
-
