@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **gabrielaug4@gmail.com**
 
-- ⚡ Fun fact: **i love rpg, games in general, books, series.**
+- ⚡ Fun fact: **i love rpg games in general, books, series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
